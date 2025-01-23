@@ -11,3 +11,18 @@ To integrate the Trading Economics API with NodeJs, use the official npm package
 
 - GitHub: https://github.com/tradingeconomics/tradingeconomics-js
 - npm: https://www.npmjs.com/package/tradingeconomics
+
+
+Overview :
+
+A platform for users to view, analyze, and manage trading-related data.
+Real-time updates on market trends and stock prices.
+
+
+Steps:
+
+Install dependencies: 
+npm install
+
+Start the development server:
+npm start
